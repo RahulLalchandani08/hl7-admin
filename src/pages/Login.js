@@ -92,11 +92,11 @@ const Login = () => {
       </Mutation>
       <hr />
       <p>Not Admin?</p>
-      <Button as="a" href="https://hl7-patient.netlify.com">
+      <Button as="a" href="https://hl7-patient.netlify.app">
         Go To Patient Page
       </Button>
       {'  '}
-      <Button as="a" href="https://hl7-mp.netlify.com">
+      <Button as="a" href="https://hl7-mp.netlify.app">
         Go To Medical Practitioner Page
       </Button>
     </Form>
